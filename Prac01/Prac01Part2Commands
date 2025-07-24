@@ -1,0 +1,137 @@
+-- ============================================
+-- Database Systems Practical 1 Part 2
+-- Working with tables: INSERT, SELECT, UPDATE, DELETE
+-- ============================================
+
+-- Task 3: Use database, list tables, and drop tables
+-- ============================================
+
+-- 1. Show available databases
+SHOW DATABASES;
+
+-- 2. Use dswork database
+USE dswork;
+
+-- 3. Show all tables in dswork database
+SHOW TABLES;
+
+-- 4. Drop test tables
+DROP TABLE TestStudent;
+DROP TABLE TestUnit;
+DROP TABLE TestEnrolment;
+
+-- Check remaining tables
+SHOW TABLES;
+
+-- 5. Show structure of each table
+SHOW COLUMNS FROM Student;
+SHOW COLUMNS FROM Unit;
+SHOW COLUMNS FROM Enrolment;
+
+-- Task 4: Adding tuples (INSERT statements)
+-- ============================================
+
+-- 1. Add James Bond to Student table
+INSERT INTO Student VALUES ('12345007', 'James', 'Bond', '0408007007');
+
+-- Add more students (including yourself)
+INSERT INTO Student VALUES ('12345001', 'John', 'Smith', '0401234567');
+INSERT INTO Student VALUES ('12345002', 'Jane', 'Doe', '0402345678');
+INSERT INTO Student VALUES ('12345003', 'Alice', 'Johnson', '0403456789');
+INSERT INTO Student VALUES ('12345004', 'Bob', 'Wilson', '0404567890');
+INSERT INTO Student VALUES ('12345005', 'Your', 'Name', '0405678901');
+
+-- View all students
+SELECT * FROM Student;
+
+-- 2. Add Database Systems unit to Unit table
+INSERT INTO Unit VALUES ('ISYS1001', 'COMPUTING', 'Database Systems');
+
+-- Add more units
+INSERT INTO Unit VALUES ('PROG1001', 'COMPUTING', 'Programming Fundamentals');
+INSERT INTO Unit VALUES ('MATH1001', 'MATH', 'Calculus');
+INSERT INTO Unit VALUES ('PHYS1001', 'PHYSICS', 'Physics Fundamentals');
+INSERT INTO Unit VALUES ('CHEM1001', 'CHEMISTRY', 'General Chemistry');
+
+-- View all units
+SELECT * FROM Unit;
+
+-- 3. Add James Bond's enrollment
+INSERT INTO Enrolment VALUES ('ISYS1001', '12345007', '2024', NULL, NULL);
+
+-- Add more enrollments with grades
+INSERT INTO Enrolment VALUES ('ISYS1001', '12345001', '2024', 85, 'A');
+INSERT INTO Enrolment VALUES ('ISYS1001', '12345002', '2024', 78, 'B');
+INSERT INTO Enrolment VALUES ('PROG1001', '12345001', '2024', 92, 'A');
+INSERT INTO Enrolment VALUES ('PROG1001', '12345003', '2024', 67, 'B');
+INSERT INTO Enrolment VALUES ('MATH1001', '12345004', '2024', 73, 'B');
+INSERT INTO Enrolment VALUES ('MATH1001', '12345005', '2024', 88, 'A');
+INSERT INTO Enrolment VALUES ('PHYS1001', '12345002', '2024', 82, 'A');
+INSERT INTO Enrolment VALUES ('CHEM1001', '12345003', '2024', 75, 'B');
+
+-- View all enrollments
+SELECT * FROM Enrolment;
+
+-- Task 5: Retrieving data from some columns
+-- ============================================
+
+-- 1. Retrieve first name and phone number of students
+SELECT firstname, phoneno FROM Student;
+
+-- 2. Find unit name and department of all units
+SELECT unitname, dept FROM Unit;
+
+-- 3. Retrieve codes of all units students have enrolled into
+SELECT unit FROM Enrolment;
+
+-- 4. Retrieve unique unit codes (no duplicates)
+SELECT DISTINCT unit FROM Enrolment;
+
+-- Task 6: Retrieving tuples using conditions
+-- ============================================
+
+-- 1. Retrieve units offered by COMPUTING department
+SELECT * FROM Unit WHERE dept = 'COMPUTING';
+
+-- 2. Retrieve student number, mark, and grade where mark > 60
+SELECT student, mark, grade FROM Enrolment WHERE mark > 60;
+
+-- 3. Retrieve student number, mark, and grade where mark is between 66 and 85
+SELECT student, mark, grade FROM Enrolment WHERE mark BETWEEN 66 AND 85;
+
+-- Task 7: Updating data
+-- ============================================
+
+-- 1. Update Database Systems unit code to ISYS2014
+UPDATE Unit SET unitindex = 'ISYS2014' WHERE unitname = 'Database Systems';
+
+-- Check the change
+SELECT * FROM Unit WHERE unitname = 'Database Systems';
+
+-- Check if this affects Enrolment table (it won't automatically update)
+SELECT * FROM Enrolment WHERE unit = 'ISYS1001';
+
+-- Task 8: Deleting tuples
+-- ============================================
+
+-- 1. Delete James Bond from Student table
+DELETE FROM Student WHERE sno = '12345007';
+
+-- Check the result
+SELECT * FROM Student;
+
+-- Check effect on Enrolment table (James Bond's enrollment will still be there)
+SELECT * FROM Enrolment WHERE student = '12345007';
+
+-- 2. Delete Database Systems unit from Unit table
+DELETE FROM Unit WHERE unitindex = 'ISYS2014';
+
+-- Check the result
+SELECT * FROM Unit;
+
+-- Check effect on Enrolment table (enrollments will still reference the deleted unit)
+SELECT * FROM Enrolment WHERE unit = 'ISYS1001' OR unit = 'ISYS2014';
+
+-- ============================================
+-- End of Practical 1 Part 2 Commands
+-- ============================================

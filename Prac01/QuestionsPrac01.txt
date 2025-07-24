@@ -1,0 +1,20 @@
+Question 1: Unit code change effect
+After updating ISYS1001 to ISYS2014 in Unit table:
+
+The change does NOT automatically reflect in the Enrolment table
+This creates data inconsistency - enrollments still reference 'ISYS1001' which no longer exists in the Unit table
+This is a referential integrity problem
+
+Question 2: Deleting James Bond
+After deleting James Bond from Student table:
+
+His enrollment records remain in the Enrolment table
+This creates orphaned records - enrollments for a student who no longer exists
+This violates referential integrity
+
+Question 3: Deleting Database Systems unit
+After deleting the unit from Unit table:
+
+Enrollment records still reference the deleted unit
+This creates more orphaned records
+Students appear enrolled in a unit that doesn't exist
