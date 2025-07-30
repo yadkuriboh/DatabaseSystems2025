@@ -66,3 +66,27 @@ SELECT lastname,
        ROUND(salary/52.1786, 2) AS weekly_salary 
 FROM Emp 
 WHERE workdept IN ('B01', 'C01', 'E21');
+
+
+-- =====================================================
+-- QUERIES WITH DATE FORMATTING FUNCTIONS
+-- =====================================================
+
+-- Query 10: Formatted birthdate for designers
+-- Format: Wednesday, 6 August 2008
+SELECT firstname, 
+       lastname, 
+       DATE_FORMAT(birthdate, '%W, %e %M %Y') AS formatted_birthdate 
+FROM Emp 
+WHERE job = 'Designer';
+
+-- Query 11: Birth month and day only
+-- Format: 6 August
+SELECT empno, 
+       firstname, 
+       DATE_FORMAT(birthdate, '%e %M') AS birth_month_day, 
+       workdept 
+FROM Emp 
+WHERE workdept IN ('B01', 'C01', 'D11', 'E21');
+
+
