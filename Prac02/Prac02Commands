@@ -1,1 +1,20 @@
 -- Tables created and date loaded successfully on data)
+
+-- =====================================================
+-- BASIC SELECT QUERIES WITH WHERE CONDITIONS
+-- =====================================================
+
+-- Query 1: Employees with salary >= $100,000
+SELECT lastname, workdept, salary 
+FROM Emp 
+WHERE salary >= 100000;
+
+-- Query 2: Employees with salary < $90,000
+SELECT lastname, firstname, birthdate 
+FROM Emp 
+WHERE salary < 90000;
+
+-- Query 3: Departments with NULL manager
+SELECT * 
+FROM Dept 
+WHERE mgrno IS NULL;
