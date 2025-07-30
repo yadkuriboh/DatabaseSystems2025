@@ -90,3 +90,50 @@ FROM Emp
 WHERE workdept IN ('B01', 'C01', 'D11', 'E21');
 
 
+-- =====================================================
+-- ADVANCED QUERIES - NULL HANDLING AND CALCULATIONS
+-- =====================================================
+
+-- Query 12: Total income with NULL handling
+SELECT empno, 
+       firstname, 
+       lastname, 
+       workdept,
+       salary,
+       bonus,
+       comm,
+       (IFNULL(salary,0) + IFNULL(bonus,0) + IFNULL(comm,0)) AS 'Total Income'
+FROM Emp 
+WHERE workdept IN ('B01', 'C01', 'E21');
+
+-- =====================================================
+-- CHALLENGING QUERY - AGE CALCULATION
+-- =====================================================
+
+-- Query 13: Employee age calculation - Method 1 (DATEDIFF)
+SELECT lastname, 
+       birthdate,
+       TRUNCATE(DATEDIFF(CURDATE(), birthdate)/365.25, 0) AS age_datediff
+FROM Emp
+ORDER BY age_datediff DESC
+LIMIT 10;
+
+-- Query 13: Employee age calculation - Method 2 (TIMESTAMPDIFF)
+SELECT lastname, 
+       birthdate,
+       TIMESTAMPDIFF(YEAR, birthdate, CURDATE()) AS age_timestampdiff
+FROM Emp
+ORDER BY age_timestampdiff DESC
+LIMIT 10;
+
+-- Comparison of both methods
+SELECT lastname, 
+       birthdate,
+       TRUNCATE(DATEDIFF(CURDATE(), birthdate)/365.25, 0) AS age_method1,
+       TIMESTAMPDIFF(YEAR, birthdate, CURDATE()) AS age_method2,
+       (TIMESTAMPDIFF(YEAR, birthdate, CURDATE()) - 
+        TRUNCATE(DATEDIFF(CURDATE(), birthdate)/365.25, 0)) AS difference
+FROM Emp
+WHERE birthdate IS NOT NULL
+ORDER BY birthdate
+LIMIT 20;
