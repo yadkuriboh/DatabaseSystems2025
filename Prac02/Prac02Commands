@@ -18,3 +18,28 @@ WHERE salary < 90000;
 SELECT * 
 FROM Dept 
 WHERE mgrno IS NULL;
+
+=====================================================
+-- QUERIES WITH BETWEEN, IN, AND LIKE OPERATORS
+-- =====================================================
+
+-- Query 4: Employees with department between 'D01' and 'E01'
+SELECT empno, lastname, workdept, phoneno 
+FROM Emp 
+WHERE workdept BETWEEN 'D01' AND 'E01';
+
+-- Query 5: Departments containing 'Service'
+SELECT * 
+FROM Dept 
+WHERE deptname LIKE '%Service%';
+
+-- Test case sensitivity
+SELECT * 
+FROM Dept 
+WHERE deptname LIKE '%service%';
+
+-- Query 6: Multiple conditions with AND
+SELECT empno, lastname, workdept 
+FROM Emp 
+WHERE workdept = 'D21' 
+  AND salary <= 60000;
