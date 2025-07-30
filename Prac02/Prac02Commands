@@ -43,3 +43,26 @@ SELECT empno, lastname, workdept
 FROM Emp 
 WHERE workdept = 'D21' 
   AND salary <= 60000;
+
+
+-- QUERIES WITH STRING AND MATHEMATICAL FUNCTIONS
+-- =====================================================
+
+-- Query 7: Full name concatenation with alias
+SELECT CONCAT(firstname, ' ', midinit, ' ', lastname) AS Full_name, 
+       job 
+FROM Emp;
+
+-- Query 8: Monthly salary with TRUNCATE (no decimals)
+SELECT lastname, 
+       workdept, 
+       TRUNCATE(salary/12, 0) AS monthly_salary 
+FROM Emp 
+WHERE workdept IN ('B01', 'C01', 'D11', 'E21');
+
+-- Query 9: Weekly salary with ROUND (2 decimals)
+SELECT lastname, 
+       workdept, 
+       ROUND(salary/52.1786, 2) AS weekly_salary 
+FROM Emp 
+WHERE workdept IN ('B01', 'C01', 'E21');
