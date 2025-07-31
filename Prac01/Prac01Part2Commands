@@ -34,12 +34,12 @@ SHOW COLUMNS FROM Enrolment;
 -- 1. Add James Bond to Student table
 INSERT INTO Student VALUES ('12345007', 'James', 'Bond', '0408007007');
 
--- Add more students (including yourself)
+-- Add more students (including myself)
 INSERT INTO Student VALUES ('12345001', 'John', 'Smith', '0401234567');
 INSERT INTO Student VALUES ('12345002', 'Jane', 'Doe', '0402345678');
 INSERT INTO Student VALUES ('12345003', 'Alice', 'Johnson', '0403456789');
 INSERT INTO Student VALUES ('12345004', 'Bob', 'Wilson', '0404567890');
-INSERT INTO Student VALUES ('12345005', 'Your', 'Name', '0405678901');
+INSERT INTO Student VALUES ('12345005', 'Yadhav', 'Ramsahye', '0405678901');
 
 -- View all students
 SELECT * FROM Student;
