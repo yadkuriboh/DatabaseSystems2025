@@ -1,0 +1,1000 @@
+  563  python3 pup\(1\).py
+  564  vim pup\(1\).py
+  565  python3 pup\(1\).py
+  566  vim pup\(1\).py
+  567  python3 pup\(1\).py
+  568  vim pup\(1\).py
+  569  python3 pup\(1\).py
+  570  vim pup\(1\).py
+  571  python3 pup\(1\).py
+  572  vim pup\(1\).py
+  573  python3 pup\(1\).py
+  574  vim pup\(1\).py
+  575  python3 pup\(1\).py
+  576  vim pup\(1\).py
+  577  python3 pup\(1\).py
+  578  vim pup\(1\).py
+  579  python3 pup\(1\).py
+  580  vim pup\(1\).py
+  581  python3 pup\(1\).py
+  582  vim pup\(1\).py
+  583  python3 pup\(1\).py
+  584  vim pup\(1\).py
+  585  python3 pup\(1\).py
+  586  vim pup\(1\).py
+  587  python3 pup\(1\).py
+  588  vim pup\(1\).py
+  589  python3 pup\(1\).py
+  590  vim pup\(1\).py
+  591  python3 pup\(1\).py
+  592  vim pup\(1\).py
+  593  python3 pup\(1\).py
+  594  vim pup\(1\).py
+  595  python3 pup\(1\).py
+  596  vim pup\(1\).py
+  597  python3 pup\(1\).py
+  598  vim pup\(1\).py
+  599  python3 pup\(1\).py
+  600  vim pup\(1\).py
+  601  python3 pup\(1\).py
+  602  vim pup\(1\).py
+  603  python3 pup\(1\).py
+  604  vim pup\(1\).py
+  605  python3 pup\(1\).py
+  606  vim pup\(1\).py
+  607  python3 pup\(1\).py
+  608  vim pup\(1\).py
+  609  python3 pup\(1\).py
+  610  vim pup\(1\).py
+  611  python3 pup\(1\).py
+  612  vim pup\(1\).py
+  613  python3 pup\(1\).py
+  614  vim pup\(1\).py
+  615  python3 pup\(1\).py
+  616  vim pup\(1\).py
+  617  python3 pup\(1\).py
+  618  vim pup\(1\).py
+  619  python3 pup\(1\).py
+  620  vim pup\(1\).py
+  621  python3 pup\(1\).py
+  622  vim pup\(1\).py
+  623  python3 pup\(1\).py
+  624  vim pup\(1\).py
+  625  python3 pup\(1\).py
+  626  vim pup\(1\).py
+  627  python3 pup\(1\).py
+  628  vim pup\(1\).py
+  629  python3 pup\(1\).py
+  630  vim pup\(1\).py
+  631  vim README
+  632  vim pup\(1\).py
+  633  python3 pup\(1\).py
+  634  vim pup\(1\).py
+  635  python3 pup\(1\).py
+  636  vim pup\(1\).py
+  637  python3 pup\(1\).py
+  638  wq
+  639  python3 pup\(1\).py
+  640  vim pup\(1\).py
+  641  python3 pup\(1\).py
+  642  vim pup\(1\).py
+  643  history > hist.txt
+  644  vim pup\(1\).py
+  645  python3 pup\(1\).py
+  646  vim pup\(1\).py
+  647  python3 pup\(1\).py
+  648  wq
+  649  vim pup\(1\).py
+  650  python3 pup\(1\).py
+  651  vim pup\(1\).py
+  652  python3 pup\(1\).py
+  653  cd ..
+  654  zip PracTest2_22108355 *
+  655  cd fop
+  656  cd FOP
+  657  cd Desktop
+  658  cd FOP
+  659  ls
+  660  cd ..
+  661  cd Desktop
+  662  cd FOP
+  663  ls
+  664  cd Practest2
+  665  cd PracTest2
+  666  ls
+  667  vim pup\(1\).py
+  668  python3 pup\(1\).py
+  669  vim pup\(1\).py
+  670  python3 pup\(1\).py
+  671  vim pup\(1\).py
+  672  python3 pup\(1\).py
+  673  wq
+  674  vim pup\(1\).py
+  675  python3 pup\(1\).py
+  676  cd Desktop
+  677  cd FOP
+  678  cd PracTest2
+  679  ls
+  680  vim pup\(1\).py 
+  681  python3 pup\(1\).py 
+  682  vim pup\(1\).py 
+  683  python3 pup\(1\).py 
+  684  cd ..
+  685  zip PracTest2_22108355
+  686  ls
+  687  zip PracTest2_22108355 *
+  688  cd PracTest1
+  689  ls[A
+  690  cd Monty
+  691  ls
+  692  cd Pythons
+  693  ls
+  694  cd Flying
+  695  ls
+  696  cd Circus 
+  697  ls
+  698  vim spam.txt
+  699  cd ..
+  700  ls
+  701  cd The
+  702  cd Holy
+  703  cd Grail
+  704  ls
+  705  vim PracTest1.py
+  706  Python3 PracTest1.py
+  707  python3 PracTest1.py 
+  708  vim PracTest1.py
+  709  python3 PracTest1.py 
+  710  vim PracTest1.py
+  711  python3 PracTest1.py 
+  712  vim PracTest1.py
+  713  python3 PracTest1.py 
+  714  vim PracTest1.py
+  715  python3 PracTest1.py 
+  716  vim PracTest1.py
+  717  python3 PracTest1.py 
+  718  vim PracTest1.py
+  719  python3 PracTest1.py 
+  720  vim PracTest1.py
+  721  python3 PracTest1.py 
+  722  vim PracTest1.py
+  723  python3 PracTest1.py 
+  724  vim PracTest1.py
+  725  python3 PracTest1.py 
+  726  cd ..
+  727  ls
+  728  cd PracTest2
+  729  ls
+  730  vim pup\(1\).py 
+  731  python3  pup\(1\).py 
+  732  cd ..
+  733  ls
+  734  cd Prac03
+  735  ls
+  736  vim rainbow.py
+  737  python3 rainbow.py
+  738  vim rainbow.py
+  739  python3 rainbow.py
+  740  vim rainbow.py
+  741  python3 rainbow.py
+  742  vim rainbow.py
+  743  python3 rainbow.py
+  744  vim rainbow.py
+  745  python3 rainbow.py
+  746  vim rainbow.py
+  747  python3 rainbow.py
+  748  vim rainbow.py
+  749  python3 rainbow.py
+  750  ls
+  751  vim README.txt
+  752  vim growth,py
+  753  vim growthplot.py
+  754  vim README.txt
+  755  cd ..
+  756  zip Prac03_22108355 *
+  757  cd Desktop
+  758  cd FOP
+  759  cd Prac04
+  760  ls
+  761  vim convertions.py
+  762  vim testConversions.py
+  763  python3 testConversions.py
+  764  vim convertions.py
+  765  vim testConversions.py
+  766  python3 testConversions.py
+  767  vim convertions.py
+  768  python3 testConversions.py
+  769  vim convertions.py
+  770  vim testConversions.py
+  771  python3 testConversions.py
+  772  vim testConversions.py
+  773  vim convertions.py
+  774  vim testConversions.py
+  775  vim convertions.py
+  776  vim testConversions.py
+  777  python3 testConversions.py
+  778  vim testConversions.py
+  779  python3 testConversions.py
+  780  vim testConversions.py
+  781  python3 testConversions.py
+  782  vim convertions.py
+  783  vim ConversionMachine.py
+  784  python3 ConversionMachine.py
+  785  vim ConversionMachine.py
+  786  python3 ConversionMachine.py
+  787  vim ConversionMachine.py
+  788  python3 ConversionMachine.py
+  789  vim ConversionMachine.py
+  790  python3 ConversionMachine.py
+  791  vim ConversionMachine.py
+  792  python3 ConversionMachine.py
+  793  vim ConversionMachine.py
+  794  python3 ConversionMachine.py
+  795  vim ConversionMachine.py
+  796  python3 ConversionMachine.py
+  797  vim ConversionMachine.py
+  798  python3 ConversionMachine.py
+  799  vim ConversionMachine.py
+  800  python3 ConversionMachine.py
+  801  vim ConversionMachine.py
+  802  python3 ConversionMachine.py
+  803  vim ConversionMachine.py
+  804  python3 ConversionMachine.py
+  805  vim ConversionMachine.py
+  806  python3 ConversionMachine.py
+  807  vim ConversionMachine.py
+  808  python3 ConversionMachine.py
+  809  cd Desktop
+  810  cd FOP
+  811  cd Prac04
+  812  ls
+  813  vim ConversionMachine.py
+  814  python3 ConversionMachine.py
+  815  cd Desktop
+  816  cd FOP
+  817  cd Prac04
+  818  ls
+  819  vim ConversionMachine.py
+  820  python3 ConversionMachine.py
+  821  cd Desktop
+  822  cd FOP
+  823  cd Prac04\
+  824  ls
+  825  vim ConversionMachine.py
+  826  python3 ConversionMachine.py
+  827  vim ConversionMachine.py
+  828  python3 ConversionMachine.py
+  829  vim ConversionMachine.py
+  830  python3 ConversionMachine.py
+  831  vim ConversionMachine.py
+  832  python3 ConversionMachine.py
+  833  vim ConversionMachine.py
+  834  python3 ConversionMachine.py
+  835  vim ConversionMachine.py
+  836  python3 ConversionMachine.py
+  837  vim ConversionMachine.py
+  838  python3 ConversionMachine.py
+  839  vim ConversionMachine.py
+  840  python3 ConversionMachine.py
+  841  vim ConversionMachine.py
+  842  python3 ConversionMachine.py
+  843  cd Desktop/FOP
+  844  cd Prac04
+  845  vim ConversionMachine.py 
+  846  python3 ConversionMachine.py 
+  847  vim ConversionMachine.py 
+  848  python3 ConversionMachine.py 
+  849  cd Desktop
+  850  cd FOP
+  851  cd Prac04
+  852  vim ConversionMachine.py 
+  853  python3 ConversionMachine.py 
+  854  vim ConversionMachine.py 
+  855  python3 ConversionMachine.py 
+  856  cd Desktop
+  857  cd FOP
+  858  cd Prac04
+  859  ls
+  860  vim competition_v2.py
+  861  python3 competition_v2.py
+  862  vim competition_v2.py
+  863  python3 competition_v2.py
+  864  vim competition_v2.py
+  865  python3 competition_v2.py
+  866  vim competition_v2.py
+  867  python3 competition_v2.py
+  868  vim competition_v2.py
+  869  python3 competition_v2.py
+  870  vim competition_v2.py
+  871  python3 competition_v2.py
+  872  vim competition_v2.py
+  873  python3 competition_v2.py
+  874  vim competition_v2.py
+  875  python3 competition_v2.py
+  876  vim competition_v2.py
+  877  python3 competition_v2.py
+  878  vim competition_v2.py
+  879  python3 competition_v2.py
+  880  vim competition_v2.py
+  881  python3 competition_v2.py
+  882  vim competition_v2.py
+  883  python3 competition_v2.py
+  884  vim competition_v2.py
+  885  cp competition_v2.py competition_v3.py
+  886  vim competition_v3.py 
+  887  ls
+  888  vim README.txt
+  889  cd ..
+  890  ls
+  891  zip Prac04_22108355 *\
+  892  zip Prac04_22108355 *
+  893  -r zip Prac04_22108355 *
+  894  ls
+  895  zip Prac04_22108355 *
+  896  cp Desktop
+  897  cd Desktop
+  898  cd FOP
+  899  cd Practest2
+  900  ls
+  901  zip PracTest2 *
+  902  ls
+  903  cd Practest2
+  904  cd PracTest2
+  905  ls
+  906  zip PracTest2_22108355 *
+  907  config --global user.name Yadhav Ramsahye
+  908  git config --global user.name Yadhav Ramsahye
+  909  apt install git
+  910  cd Desktop
+  911  ls
+  912  python3 Maze\(1\).py 
+  913  s
+  914  python3 Maze\(1\).py 
+  915  vim Maze\(1\).py 
+  916  git --version
+  917  sudo apt update
+  918  sudo apt install git
+  919  sudo apt-get install
+  920  sudo apt-get install git
+  921  sudo apt install git
+  922  su
+  923  git config --global user.name Yad
+  924  git config --gobal user.email 22108355@student.curtin.edu.au
+  925  git config --global user.email 22108355@student.curtin.edu.au
+  926  mkdir myprojectYAD
+  927  cd myprojectYAD/
+  928  git init
+  929  ls
+  930  ls -a
+  931  cd ..
+  932  cd myprojectYAD/
+  933  vim Maze.py 
+  934  ls
+  935  git status
+  936  git add Maze.py
+  937  git status
+  938  git commit -m "Initial comit"
+  939  git status
+  940  vim GridViewer.py
+  941  cp Maze.py GridViewer.py
+  942  vim GridViewer.py 
+  943  cd Desktop
+  944  cd myprojectYAD/
+  945  git --version
+  946  sudo apt update
+  947  su
+  948  git init
+  949  ls
+  950  la -a
+  951  git status
+  952  git add Maze.java
+  953  git status
+  954  git commit -m "Initial commit"
+  955  ls
+  956  ls -a
+  957  git status
+  958  git add Maze.py
+  959  git add GridViwer.py
+  960  git add Gridvier.py
+  961  gid add Gridviwer.py
+  962  git add Gridviwer.py
+  963  ls
+  964  git add GridViwer.py
+  965  git add GridViewer.py
+  966  git status
+  967  git commit
+  968  cd Desktop
+  969  cd myprojectYAD/
+  970  git diff --color
+  971  python3 Maze.py 
+  972  git status 
+  973  git commit
+  974  cd Desktop
+  975  cd FOP
+  976  cd PracTest3
+  977  vim task3
+  978  vim task3.p
+  979  vim task3.py
+  980  python3 task3.py
+  981  vim task3.py
+  982  python3 task3.py
+  983  vim task3.py
+  984  python3 task3.py
+  985  vim task3.py
+  986  python3 task3.py
+  987  vim task3.py
+  988  python3 task3.py
+  989  vim creatures.py 
+  990  python3 task1
+  991  ls
+  992  python3 task1.py
+  993  python3 task2.py
+  994  ls
+  995  python3 testCat.py
+  996  vim creature
+  997  ls
+  998  vim creature.py
+  999  vim creatures.py
+ 1000  vim testCat.py
+ 1001  vim creatures.py
+ 1002  vim testCat.py
+ 1003  python3 testCat.py
+ 1004  vim testCat.py
+ 1005  python3 testCat.py
+ 1006  vim testCat.py
+ 1007  python3 testCat.py
+ 1008  vim testCat.py
+ 1009  python3 testCat.py
+ 1010  vim testCat.py
+ 1011  vim creatures.py
+ 1012  python3 testCat.py
+ 1013  vim creatures.py
+ 1014  python3 testCat.py
+ 1015  vim creatures.py
+ 1016  vim testCat.py
+ 1017  python3 testCat.py
+ 1018  vim testCat.py
+ 1019  python3 testCat.py
+ 1020  vim testCat.py
+ 1021  python3 testCat.py
+ 1022  vim testCat.py
+ 1023  python3 testCat.py
+ 1024  vim creatures.py
+ 1025  python3 testCat.py
+ 1026  vim creatures.py
+ 1027  python3 testCat.py
+ 1028  vim testCat.py
+ 1029  python3 testCat.py
+ 1030  vim testCat.py
+ 1031  python3 testCat.py
+ 1032  vim testCat.py
+ 1033  python3 testCat.py
+ 1034  vim testCat.py
+ 1035  python3 testCat.py
+ 1036  vim testCat.py
+ 1037  vim creatures.py
+ 1038  vim testCat.py
+ 1039  python3 task3.py
+ 1040  vim task3.py
+ 1041  python3 task3.py
+ 1042  vim task3.py
+ 1043  python3 task3.py
+ 1044  vim task3.py
+ 1045  python3 task3.py
+ 1046  vim task3.py
+ 1047  python3 task3.py
+ 1048  vim task3.py
+ 1049  python3 task3.py
+ 1050  vim task3.py
+ 1051  python3 task3.py
+ 1052  vim creature.py
+ 1053  vim creatures.py
+ 1054  python3 task3.py
+ 1055  vim creatures.py
+ 1056  vim task3.py
+ 1057  python3 task3.py
+ 1058  vim creatures.py
+ 1059  python3 task1.py
+ 1060  python3 testCat.py
+ 1061  vim task3.py
+ 1062  python3 task3.py
+ 1063  vim task3.py
+ 1064  python3 task3.py
+ 1065  vim task1.py
+ 1066  vim task3.py
+ 1067  python3 task3.py
+ 1068  vim task3.py
+ 1069  python3 task3.py
+ 1070  vim task3.py
+ 1071  python3 task3.py
+ 1072  vim creatures.py
+ 1073  python3 task3.py
+ 1074  vim creatures.py
+ 1075  vim task3.py
+ 1076  python3 task3.py
+ 1077  vim creatures.py
+ 1078  vim task1.py
+ 1079  vim task3.py
+ 1080  python3 task3.py
+ 1081  vim task3.py
+ 1082  python3 task3.py
+ 1083  vim task3.py
+ 1084  python3 task3.py
+ 1085  vim task3.py
+ 1086  python3 task3.py
+ 1087  vim task3.py
+ 1088  python3 task3.py
+ 1089  vim task3.py
+ 1090  python3 task3.py
+ 1091  vim task3.py
+ 1092  python3 task3.py
+ 1093  vim task3.py
+ 1094  python3 task3.py
+ 1095  vim task3.py
+ 1096  python3 task3.py
+ 1097  vim task3.py
+ 1098  python3 task3.py
+ 1099  vim task3.py
+ 1100  python3 task3.py
+ 1101  vim task3.py
+ 1102  python3 task3.py
+ 1103  vim task3.py
+ 1104  python3 task3.py
+ 1105  vim task3.py
+ 1106  python3 task3.py
+ 1107  vim task3.py
+ 1108  python3 task3.py
+ 1109  vim task3.py
+ 1110  python3 task3.py
+ 1111  vim task3.py
+ 1112  cd Desktop
+ 1113  cd PracTest3.1
+ 1114  ls
+ 1115  python3 task1.py
+ 1116  vim task1.py
+ 1117  python3 task1.py
+ 1118  ls
+ 1119  python3 task1 (copy).py
+ 1120  python3 ggt.py
+ 1121  vim task1.py
+ 1122  python3 testCat.py 
+ 1123  vim tastCat.py
+ 1124  python3 testCat.py 
+ 1125  python3 testCat.py
+ 1126  cd Desktop
+ 1127  cd PracTest3.1
+ 1128  ls
+ 1129  python3 task1.py
+ 1130  ls
+ 1131  python3 task1.py
+ 1132  vim task1.py
+ 1133  python3 task1.py
+ 1134  python3 testCat.py
+ 1135  python3 task1.py
+ 1136  python3 testCat.py
+ 1137  python3 task3.py
+ 1138  python3 task4.py
+ 1139  python3 task1.py
+ 1140  python3 task4.py
+ 1141  python3 task1.py
+ 1142  python3 testCat.py
+ 1143  python3 task3.py
+ 1144  python3 task4.py
+ 1145  python3 task3.py
+ 1146  python3 task4.py
+ 1147  python3 test.py
+ 1148  python3 Test.py
+ 1149  cd Desktop
+ 1150  cd FOP
+ 1151  cd Dog
+ 1152  ls
+ 1153  python3 Dogs.py
+ 1154  vim Dogs.py
+ 1155  vim creatures.py
+ 1156  cd Desktop
+ 1157  cd FOP
+ 1158  cd Prac03
+ 1159  cd ..
+ 1160  cd Prac04
+ 1161  ls
+ 1162  cd ..
+ 1163  cd Prac03
+ 1164  ls
+ 1165  python3 rainbow.py 
+ 1166  cd Desktop
+ 1167  cd FOP
+ 1168  ls
+ 1169  cd PracTest3
+ 1170  ls
+ 1171  python3 testCat.py 
+ 1172  python3 task1.py
+ 1173  python3 task3.py
+ 1174  python3 task4.py
+ 1175  python3 task3.py
+ 1176  python3 task4.py
+ 1177  vim task4.py
+ 1178  cd Desktop
+ 1179  cd FOP
+ 1180  cd dogs
+ 1181  cd Dog
+ 1182  ls
+ 1183  python3 Dogs.py
+ 1184  vim Dogs.py
+ 1185  python3 Dogs.py
+ 1186  vim Dogs.py
+ 1187  python3 Dogs.py
+ 1188  vim Dogs.py
+ 1189  python3 Dogs.py
+ 1190  vim Dogs.py
+ 1191  python3 Dogs.py
+ 1192  vim Dogs.py
+ 1193  python3 Dogs.py
+ 1194  vim Dogs.py
+ 1195  python3 Dogs.py
+ 1196  vim Dogs.py
+ 1197  python3 Dogs.py
+ 1198  vim Dogs.py
+ 1199  python3 Dogs.py
+ 1200  vim Dogs.py
+ 1201  python3 Dogs.py
+ 1202  vim Dogs.py
+ 1203  cd..
+ 1204  cd ..
+ 1205  cd PracTest3
+ 1206  lsls
+ 1207  ls
+ 1208  python3 task1.py
+ 1209  vim task1.py
+ 1210  python3 task1.py
+ 1211  vim task1.py
+ 1212  cd Desktop
+ 1213  cd FOP
+ 1214  cd Prac05
+ 1215  ls
+ 1216  vim weather.py
+ 1217  python3 weather.py
+ 1218  vim weather.py
+ 1219  python3 weather.py
+ 1220  vim weather.py
+ 1221  python3 weather.py
+ 1222  vim weather.py
+ 1223  python3 weather.py
+ 1224  vim weather.py
+ 1225  python3 weather.py
+ 1226  ls
+ 1227  vim marchweatherfull.csv 
+ 1228  cd Desktop
+ 1229  cd FOP
+ 1230  ls
+ 1231  cd PracTest1
+ 1232  ls
+ 1233  cd The
+ 1234  ls
+ 1235  cd Holy
+ 1236  ls
+ 1237  cd Grail
+ 1238  ls
+ 1239  python3 PracTest1.py 
+ 1240  cd ..
+ 1241  cd..
+ 1242  cd ..
+ 1243  cd PracTest3
+ 1244  ls
+ 1245  python3 task1
+ 1246  python3 task1.py
+ 1247  python3 testCat.py
+ 1248  python3 task3.py
+ 1249  python3 task4.py
+ 1250  cd ..
+ 1251  vim PracTest2
+ 1252  vim Desktop
+ 1253  cd FOP
+ 1254  cd ..
+ 1255  cd Desktop
+ 1256  cd FOP
+ 1257  cd PracTest4
+ 1258  ls
+ 1259  vim accounts.py
+ 1260  pip install notebook
+ 1261  jupyter notebook
+ 1262  apt install jupyter-core
+ 1263  cd desktop
+ 1264  cd Desktop
+ 1265  apt install jupyter-core
+ 1266  pip install notebook
+ 1267  jupyter notebook
+ 1268  apt install jupyter-core
+ 1269  cd watashiwa
+ 1270  ls
+ 1271  cd gayrepo/
+ 1272  ls
+ 1273  git status
+ 1274  git checkout creatures.py
+ 1275  git status
+ 1276  git checkout
+ 1277  ls
+ 1278  git status
+ 1279  git checkout newbranch
+ 1280  git branch new
+ 1281  git checkout new creatures.py
+ 1282  git checkout new
+ 1283  ls
+ 1284  git status
+ 1285  vim creatures.py 
+ 1286  git status
+ 1287  git add creatures.py
+ 1288  git status
+ 1289  git commit
+ 1290  cd Desktop
+ 1291  cd watashiwa
+ 1292  ls
+ 1293  cd gayrepo
+ 1294  ls
+ 1295  git status
+ 1296  git checkout master
+ 1297  vim creatures.py 
+ 1298  git checkout new
+ 1299  git merge
+ 1300  git merge creatures.py
+ 1301  mkdir alala
+ 1302  cd alala
+ 1303  git init penis
+ 1304  ls
+ 1305  cd penis
+ 1306  git status
+ 1307  mkdir vagina
+ 1308  git status
+ 1309  git add vagina
+ 1310  git status
+ 1311  git commit -m "initial commit for vagina"
+ 1312  ls
+ 1313  cd vagina
+ 1314  vim sous.txt
+ 1315  git status
+ 1316  git add sous.txt
+ 1317  git commit -m "initial commit for sous.txt
+ 1318  k
+ 1319  git status
+ 1320  q./
+ 1321  sous.txt 
+ 1322  cd ..
+ 1323  cd Desktop
+ 1324  cd alala
+ 1325  git status
+ 1326  cd penis
+ 1327  ls
+ 1328  cd vagina
+ 1329  ls
+ 1330  git status
+ 1331  git commit
+ 1332  cd Desktop
+ 1333  mkdir penis
+ 1334  git init sa
+ 1335  cd sa
+ 1336  git status
+ 1337  mkdir vigana
+ 1338  cd mkdir
+ 1339  git status
+ 1340  vim sous.txt
+ 1341  git status
+ 1342  git branch
+ 1343  git status
+ 1344  git add sous.txt
+ 1345  git status
+ 1346  git commit -m "initial commit for sous.txt"
+ 1347  ls
+ 1348  git status
+ 1349  git bracnh newvagina
+ 1350  git branch newvagina
+ 1351  git checkout newvagina 
+ 1352  vim sous.txt
+ 1353  git status
+ 1354  git add sous.txt
+ 1355  git status
+ 1356  git commit -m "second commit for sous.txt"
+ 1357  ls
+ 1358  git status
+ 1359  git checkout master
+ 1360  ls
+ 1361  vim sous.txt 
+ 1362  git merge newvagina sous.txt
+ 1363  git merge newvagina
+ 1364  ls
+ 1365  vim sous.txt 
+ 1366  cd ..
+ 1367  clear
+ 1368  mkdir SE_Assingment 
+ 1369  ls
+ 1370  cd SE_Assingment
+ 1371  git init Ramsahye_Yadhav22108355_ISErepo
+ 1372  ls
+ 1373  cd Ramsahye_Yadhav22108355_ISErepo/
+ 1374  mkdir code
+ 1375  mkdir documents 
+ 1376  ls
+ 1377  cd Desktop
+ 1378  cd AssingmentSE
+ 1379  ls
+ 1380  cd SE_Assingment/
+ 1381  ls
+ 1382  cd R
+ 1383  cd Ramsahye_Yadhav22108355_ISErepo/
+ 1384  LS
+ 1385  ls
+ 1386  cd code
+ 1387  ls
+ 1388  git branch
+ 1389  vim Testcase2_ScenarioA.py
+ 1390  git status
+ 1391  git add Testcase2_ScenarioA.py 
+ 1392  git commit -m "initial commit for Testcase 2"
+ 1393  git statu
+ 1394  git status
+ 1395  git add Testcase2_ScenarioA.py 
+ 1396  git commit -m "Second commit for Testcase 2"
+ 1397  git add Testcase1_ScenarioA.py 
+ 1398  git status
+ 1399  git commit -m "Updated error message from test case 1"
+ 1400  git status
+ 1401  python3 Testcase2_ScenarioA.py 
+ 1402  vim Testcase2_ScenarioA.py 
+ 1403  python3 Testcase2_ScenarioA.py 
+ 1404  vim Testcase2_ScenarioA.py 
+ 1405  git status
+ 1406  git add Testcase2_ScenarioA.py 
+ 1407  git commit -m "modified test outputs for test case 2"
+ 1408  git status
+ 1409  vim Testcase3_ScenarioA.py
+ 1410  git add Testcase3_ScenarioA.py 
+ 1411  git commit -m "initial commit for Test case 3"
+ 1412  git status
+ 1413  git add Testcase3_ScenarioA.py 
+ 1414  git commit -m "Second commit for test case 3"
+ 1415  vim Testcase3_ScenarioA.py 
+ 1416  python3 Testcase3_ScenarioA.py 
+ 1417  git status
+ 1418  vim Testcase4_ScenarioB.py
+ 1419  git status
+ 1420  git add Testcase4_ScenarioB.py 
+ 1421  git commit -m "initial commit for Test case 4"
+ 1422  python3 Testcase4_ScenarioB.py 
+ 1423  vim Testcase4_ScenarioB.py 
+ 1424  python3 Testcase4_ScenarioB.py 
+ 1425  git status
+ 1426  git add CheckGeneration.py Testcase4_ScenarioB.py __pycache__/
+ 1427  git commit -m "Fixed error detected in test case 4"
+ 1428  git status
+ 1429  git checkout master
+ 1430  git branch
+ 1431  git merge testing
+ 1432  git status
+ 1433  git branch
+ 1434  cd YadhavRamsahye_22108355_ISEAssignment/
+ 1435  cd Ramsahye_Yadhav22108355_ISErepo/
+ 1436  cd code
+ 1437  ls
+ 1438  vim ScenarioA.py
+ 1439  cd Desktop/
+ 1440  cd YadhavRamsahye_22108355_ISEAssignment/
+ 1441  cd Ramsahye_Yadhav22108355_ISErepo/
+ 1442  cd code
+ 1443  vim ScenarioA.py
+ 1444  vim MasterandSplit.py 
+ 1445  python3 ScenarioB.py
+ 1446  python3 Main.py
+ 1447  cd Desktop/
+ 1448  cd YadhavRamsahye_22108355_ISEAssignment/
+ 1449  cd Ramsahye_Yadhav22108355_ISErepo/
+ 1450  cd documents/
+ 1451  ls
+ 1452  git status
+ 1453  git add CoverSheet.pdf RamsahyeYadhav_22108355_ISEReport.pdf RamsahyeYadhav_22108355_ISEReport.md README.txt 
+ 1454  git status
+ 1455  git commit -m "commit for reports, cover sheet and readme
+ 1456  "
+ 1457  git status
+ 1458  git add ../ README.txt
+ 1459  git status
+ 1460  git commit -m "final commit for all documents"
+ 1461  ls
+ 1462  cd Desktop
+ 1463  ls
+ 1464  cd FOP
+ 1465  ls
+ 1466  cd..
+ 1467  ls
+ 1468  cd
+ 1469  ls
+ 1470  what
+ 1471  whatis
+ 1472  mkdir UCP
+ 1473  ls
+ 1474  cd UCP
+ 1475  ls
+ 1476  man man
+ 1477  apropos
+ 1478  vim yes.txt
+ 1479  apropos yes.txt
+ 1480  man yes.txt
+ 1481  which yes.txt
+ 1482  which me
+ 1483  what me
+ 1484  whatis me
+ 1485  whatis cd
+ 1486  whatis UCP
+ 1487  cd
+ 1488  whatis UCP
+ 1489  man man
+ 1490  man -q
+ 1491  man mna
+ 1492  man man
+ 1493  man -k
+ 1494  UCP
+ 1495  man man
+ 1496  man -qw
+ 1497  man man
+ 1498  man -w
+ 1499  man apropos
+ 1500  man which
+ 1501  man whereis
+ 1502  ls
+ 1503  man whereis FOP
+ 1504  whereis FOP
+ 1505  whereis UCP
+ 1506  apropos time
+ 1507  man man man time
+ 1508  apropos time
+ 1509  man man man
+ 1510  apropos time
+ 1511  man man man
+ 1512  umask
+ 1513  de ~/DBS/Prac01
+ 1514  cd ~/DBS/Prac01
+ 1515  ls
+ 1516  sudo mysql
+ 1517  nano Prac01Part1Commands
+ 1518  ls
+ 1519  vim Prac01Part1Commands
+ 1520  ls
+ 1521  sudo mysql
+ 1522  ls
+ 1523  sudo mysql
+ 1524  vim Prac01Part1Commands 
+ 1525  ls
+ 1526  sudo mysql
+ 1527  ls
+ 1528  ls 
+ 1529  cp Prac01Part1Commands Prac01Tables
+ 1530  ls
+ 1531  vim Prac01Tables 
+ 1532  sudo mysql
+ 1533  vim Prac01Tables 
+ 1534  sudo mysql
+ 1535  vim Prac01Tables 
+ 1536  sudo mysql
+ 1537  ls
+ 1538  cd DBS
+ 1539  ls
+ 1540  cd Prac01
+ 1541  ls
+ 1542  vim Prac01Part1Commands 
+ 1543  sudo mysql
+ 1544  ls
+ 1545  vim Prac01Part1Commands 
+ 1546  sudo mysql
+ 1547  vim Prac01Part1Commands 
+ 1548  vim Prac01Part2Commands 
+ 1549  sudo mysql
+ 1550  cd ..
+ 1551  zip -r Prac01_Submission.zip Prac01/
+ 1552  ls
+ 1553  cd Prac01
+ 1554  ls
+ 1555  sudo mysql
+ 1556  vim Prac01Part2Commands 
+ 1557  ls
+ 1558  sudo mysql
+ 1559  sudo cat ~/.mysql_history > hist.txt
+ 1560  ls
+ 1561  sudo cat /root/.mysql_history > hist.txt
+ 1562  history > hist2.txt
