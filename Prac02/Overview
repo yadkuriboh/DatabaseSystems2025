@@ -1,0 +1,12 @@
+Overview
+This practical focuses on:
+
+Creating tables with PRIMARY KEY and NOT NULL constraints
+Executing SQL files in MySQL
+Writing complex SELECT queries with various SQL functions
+Working with date/time formatting and mathematical functions
+
+IMPORTANT: This practical requires TWO terminal windows open simultaneously:
+
+Terminal 1: For MySQL session (running queries)
+Terminal 2: For file editing and git commands
