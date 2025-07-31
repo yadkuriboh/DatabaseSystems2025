@@ -20,7 +20,7 @@ CREATE TABLE Emp (
     workdept CHAR(3),
     phoneno CHAR(4),
     hiredate DATE,
-    job CHAR(20),
+    job VARCHAR(20),
     edlevel INT,
     gender CHAR(1),
     birthdate DATE,
