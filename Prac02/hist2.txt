@@ -1,0 +1,310 @@
+=== TERMINAL COMMAND HISTORY ===
+Generated on: ze 31 zil 13:24:25 +04 2025
+=================================
+
+# Commands from current session related to Prac02:
+ 1427  git commit -m "Fixed error detected in test case 4"
+ 1428  git status
+ 1429  git checkout master
+ 1430  git branch
+ 1431  git merge testing
+ 1432  git status
+ 1433  git branch
+ 1452  git status
+ 1453  git add CoverSheet.pdf RamsahyeYadhav_22108355_ISEReport.pdf RamsahyeYadhav_22108355_ISEReport.md README.txt 
+ 1454  git status
+ 1455  git commit -m "commit for reports, cover sheet and readme
+ 1457  git status
+ 1458  git add ../ README.txt
+ 1459  git status
+ 1460  git commit -m "final commit for all documents"
+ 1540  cd Prac02
+ 1541  git add .
+ 1542  git commit -m "Initial setup for Practial 2 - add downloaded SQL files" 
+ 1543  git push origin main
+ 1545  vim Prac02Commands 
+ 1546  vim create_tables.sql 
+ 1552  vim create_tables.sql 
+ 1554  vim create_tables.sql 
+ 1555  rm create_tables.sql 
+ 1557  vim create_tables.sql
+ 1560  vim create_tables.sql 
+ 1561  git add create_tables.sql
+ 1563  git commit -m "Fix job column size from CHAR(8) to VARCHAR(20) to accommodate longer job titles" 
+ 1564  vim create_tables.sql 
+ 1565  echo "-- Tables created and date loaded successfully on $*data)" >> Prac02Commands
+ 1566  git add Prac02Commands
+ 1567  git commit -m "Document sucessful table creation an data loading"
+ 1568  vim Prac02Commands 
+ 1569  git add Prac02Commands 
+ 1570  git commit -m "Add queries 1-3: Basic SELECT with WHERE conditions and NULL handling"
+ 1571  vim Prac02Commands 
+ 1573  git add Prac02Commands 
+ 1574  git commit -m "Add queries 4-6: BETWEEN, IN LIKE operatoers and compund conditions"
+ 1575  vim Prac02Commands 
+ 1576  git add Prac02Commands 
+ 1577  git commit -m "Add questies 7-9: CONCAT, TRUMCATE, and ROUND function"
+ 1578  vim Prac02Commands 
+ 1579  git add Prac02Commands 
+ 1580  git commit -m "Add Queries 10-11: DATE_FORMAT function with custom formatting"
+ 1581  vim Prac02Commands 
+ 1582  git add Prac02Commands 
+ 1583  git commit -m "Add queries 12 - 13 Advanced NULL handling and age calculations with multiple methods"
+ 1585  vim Prac02Commands 
+ 1586  git add Prac02Commands 
+ 1587  git commit -m "Add queries 12-13: Advanced NUL handling and age calculations with multiple methods"
+ 1590  git add Prac02Work.out
+ 1591  git commit -m "Add MySQL session log showing all query executions"
+ 1592  git diff create_tables.sql
+ 1593  git add create_tables.sql
+ 1594  git commit -m "Fix: Increase job column size from CHAR(8) to VARCHAR(20)"
+ 1598  git status
+ 1599  git add Prac01Part2Commands
+ 1600  git commit -m "Updated Prac01part2Commands"\
+ 1601  git add hist.txt hist2.txt
+ 1602  git commit -m "Added history files" 
+ 1603  git add Prac01_Submission.zip
+ 1606  git add Prac01_Submission.zip
+ 1607  git commit -m "add submission zip file"
+ 1608  cd Prac02
+ 1610  git add Overview TestSummary
+ 1611  git commit -m "Add Overview and TestSummary"
+ 1612  git push origin main
+ 1613  git add create_table.sql
+ 1615  git add create_tables.sql 
+ 1616  git commit -m "Fix job column"
+ 1618  git status
+ 1619  git add Prac02Work.out
+ 1620  cd Prac02
+ 1621  git add Prac02Work.out
+ 1622  git commit -m "Add Mysql session log showing all query executions"
+ 1628  git add  query_test_results.md 
+ 1629  git commit -m "Add query test results summary documentation"
+ 1630  git add Prac02Work.out 
+ 1631  git commit -m "Add MySQL session log showing all query executions"
+ 1633  git add completion_summary.md 
+ 1635  git commit -m "Add practical completion summary wit key learning points"
+ 1637  git status
+ 1638  git log --oneline
+ 1641  cd Prac02
+ 1643  cat create_tables.sql | grep -E "NOT NULL|PRIMARY KEY|VARCHAR\(20\)"
+ 1644  grep -n "Query [0-9]" Prac02Commands
+ 1645  grep -c "Query [0-9]" Prac02Commands
+ 1647  grep -i "CONCAT" Prac02Commands && echo "✓ CONCAT found"
+ 1648  grep -i "TRUNCATE" Prac02Commands && echo "✓ TRUNCATE found"
+ 1649  grep -i "ROUND" Prac02Commands && echo "✓ ROUND found"
+ 1650  grep -i "DATE_FORMAT" Prac02Commands && echo "✓ DATE_FORMAT found"
+ 1651  grep -i "BETWEEN" Prac02Commands && echo "✓ BETWEEN found"
+ 1652  grep -i "IN (" Prac02Commands && echo "✓ IN found"
+ 1653  grep -i "LIKE" Prac02Commands && echo "✓ LIKE found"
+ 1654  grep -i "IFNULL" Prac02Commands && echo "✓ IFNULL found"
+ 1655  grep -i "DATEDIFF|TIMESTAMPDIFF" Prac02Commands && echo "✓ Date difference functions found"
+ 1661  echo "Extracted from: Prac02Work.out" >> hist.txt
+ 1664  grep -E "^mysql>|^    ->" Prac02Work.out | sed 's/mysql> //g' | sed 's/    -> //g' >> hist.txt
+ 1675  echo "# Commands from current session related to Prac02:" >> hist2.txt
+ 1676  history | grep -E "Prac02|create_tables|\.sql|git" | tail -100 >> hist2.txt
+
+# Recent commands in Prac02 directory:
+pwd: /home/fop/DBS/Prac02
+
+# Last 200 bash commands:
+ 1485  whatis cd
+ 1486  whatis UCP
+ 1487  cd
+ 1488  whatis UCP
+ 1489  man man
+ 1490  man -q
+ 1491  man mna
+ 1492  man man
+ 1493  man -k
+ 1494  UCP
+ 1495  man man
+ 1496  man -qw
+ 1497  man man
+ 1498  man -w
+ 1499  man apropos
+ 1500  man which
+ 1501  man whereis
+ 1502  ls
+ 1503  man whereis FOP
+ 1504  whereis FOP
+ 1505  whereis UCP
+ 1506  apropos time
+ 1507  man man man time
+ 1508  apropos time
+ 1509  man man man
+ 1510  apropos time
+ 1511  man man man
+ 1512  umask
+ 1513  de ~/DBS/Prac01
+ 1514  cd ~/DBS/Prac01
+ 1515  ls
+ 1516  sudo mysql
+ 1517  nano Prac01Part1Commands
+ 1518  ls
+ 1519  vim Prac01Part1Commands
+ 1520  ls
+ 1521  sudo mysql
+ 1522  ls
+ 1523  sudo mysql
+ 1524  vim Prac01Part1Commands 
+ 1525  ls
+ 1526  sudo mysql
+ 1527  ls
+ 1528  ls 
+ 1529  cp Prac01Part1Commands Prac01Tables
+ 1530  ls
+ 1531  vim Prac01Tables 
+ 1532  sudo mysql
+ 1533  vim Prac01Tables 
+ 1534  sudo mysql
+ 1535  vim Prac01Tables 
+ 1536  sudo mysql
+ 1537  ls
+ 1538  cd DBS
+ 1539  ls
+ 1540  cd Prac02
+ 1541  git add .
+ 1542  git commit -m "Initial setup for Practial 2 - add downloaded SQL files" 
+ 1543  git push origin main
+ 1544  ls
+ 1545  vim Prac02Commands 
+ 1546  vim create_tables.sql 
+ 1547  ls
+ 1548  vim Overview
+ 1549  ls
+ 1550  sudo mysql
+ 1551  ls
+ 1552  vim create_tables.sql 
+ 1553  sudo mysql
+ 1554  vim create_tables.sql 
+ 1555  rm create_tables.sql 
+ 1556  ls
+ 1557  vim create_tables.sql
+ 1558  ls
+ 1559  sudo mysql
+ 1560  vim create_tables.sql 
+ 1561  git add create_tables.sql
+ 1562  commit -m "Fix job column size from CHAR(8) to VARCHAR(20) to accommodate longer job titles" 
+ 1563  git commit -m "Fix job column size from CHAR(8) to VARCHAR(20) to accommodate longer job titles" 
+ 1564  vim create_tables.sql 
+ 1565  echo "-- Tables created and date loaded successfully on $*data)" >> Prac02Commands
+ 1566  git add Prac02Commands
+ 1567  git commit -m "Document sucessful table creation an data loading"
+ 1568  vim Prac02Commands 
+ 1569  git add Prac02Commands 
+ 1570  git commit -m "Add queries 1-3: Basic SELECT with WHERE conditions and NULL handling"
+ 1571  vim Prac02Commands 
+ 1572  ls
+ 1573  git add Prac02Commands 
+ 1574  git commit -m "Add queries 4-6: BETWEEN, IN LIKE operatoers and compund conditions"
+ 1575  vim Prac02Commands 
+ 1576  git add Prac02Commands 
+ 1577  git commit -m "Add questies 7-9: CONCAT, TRUMCATE, and ROUND function"
+ 1578  vim Prac02Commands 
+ 1579  git add Prac02Commands 
+ 1580  git commit -m "Add Queries 10-11: DATE_FORMAT function with custom formatting"
+ 1581  vim Prac02Commands 
+ 1582  git add Prac02Commands 
+ 1583  git commit -m "Add queries 12 - 13 Advanced NULL handling and age calculations with multiple methods"
+ 1584  vim TestSummary
+ 1585  vim Prac02Commands 
+ 1586  git add Prac02Commands 
+ 1587  git commit -m "Add queries 12-13: Advanced NUL handling and age calculations with multiple methods"
+ 1588  ls
+ 1589  vim TestSummary 
+ 1590  git add Prac02Work.out
+ 1591  git commit -m "Add MySQL session log showing all query executions"
+ 1592  git diff create_tables.sql
+ 1593  git add create_tables.sql
+ 1594  git commit -m "Fix: Increase job column size from CHAR(8) to VARCHAR(20)"
+ 1595  cd ..
+ 1596  cd DBS
+ 1597  cd Prac01
+ 1598  git status
+ 1599  git add Prac01Part2Commands
+ 1600  git commit -m "Updated Prac01part2Commands"\
+ 1601  git add hist.txt hist2.txt
+ 1602  git commit -m "Added history files" 
+ 1603  git add Prac01_Submission.zip
+ 1604  ls
+ 1605  cd ..
+ 1606  git add Prac01_Submission.zip
+ 1607  git commit -m "add submission zip file"
+ 1608  cd Prac02
+ 1609  ls -la Overview TestSummary
+ 1610  git add Overview TestSummary
+ 1611  git commit -m "Add Overview and TestSummary"
+ 1612  git push origin main
+ 1613  git add create_table.sql
+ 1614  ls
+ 1615  git add create_tables.sql 
+ 1616  git commit -m "Fix job column"
+ 1617  cd ..
+ 1618  git status
+ 1619  git add Prac02Work.out
+ 1620  cd Prac02
+ 1621  git add Prac02Work.out
+ 1622  git commit -m "Add Mysql session log showing all query executions"
+ 1623  ls
+ 1624  nano completion_summary.md
+ 1625  ls
+ 1626  rm completion_summary.md 
+ 1627  nano query_test_results.md
+ 1628  git add  query_test_results.md 
+ 1629  git commit -m "Add query test results summary documentation"
+ 1630  git add Prac02Work.out 
+ 1631  git commit -m "Add MySQL session log showing all query executions"
+ 1632  nano completion_summary.md
+ 1633  git add completion_summary.md 
+ 1634  ls
+ 1635  git commit -m "Add practical completion summary wit key learning points"
+ 1636  ls  -la
+ 1637  git status
+ 1638  git log --oneline
+ 1639  cd ..
+ 1640  ls
+ 1641  cd Prac02
+ 1642  ls -la
+ 1643  cat create_tables.sql | grep -E "NOT NULL|PRIMARY KEY|VARCHAR\(20\)"
+ 1644  grep -n "Query [0-9]" Prac02Commands
+ 1645  grep -c "Query [0-9]" Prac02Commands
+ 1646  echo "Checking for required SQL functions..."
+ 1647  grep -i "CONCAT" Prac02Commands && echo "✓ CONCAT found"
+ 1648  grep -i "TRUNCATE" Prac02Commands && echo "✓ TRUNCATE found"
+ 1649  grep -i "ROUND" Prac02Commands && echo "✓ ROUND found"
+ 1650  grep -i "DATE_FORMAT" Prac02Commands && echo "✓ DATE_FORMAT found"
+ 1651  grep -i "BETWEEN" Prac02Commands && echo "✓ BETWEEN found"
+ 1652  grep -i "IN (" Prac02Commands && echo "✓ IN found"
+ 1653  grep -i "LIKE" Prac02Commands && echo "✓ LIKE found"
+ 1654  grep -i "IFNULL" Prac02Commands && echo "✓ IFNULL found"
+ 1655  grep -i "DATEDIFF|TIMESTAMPDIFF" Prac02Commands && echo "✓ Date difference functions found"
+ 1656  cat . README.txt < 'EOF'
+ 1657  cat > README.txt < 'EOF'
+ 1658  vim README.txt
+ 1659  echo "=== MySQL COMMAND HISTORY ===" > hist.txt
+ 1660  echo "Generated on: $(date)" >> hist.txt
+ 1661  echo "Extracted from: Prac02Work.out" >> hist.txt
+ 1662  echo "=============================" >> hist.txt
+ 1663  echo "" >> hist.txt
+ 1664  grep -E "^mysql>|^    ->" Prac02Work.out | sed 's/mysql> //g' | sed 's/    -> //g' >> hist.txt
+ 1665  ls
+ 1666  vim hist.txt 
+ 1667  echo "MySQL commands extracted. First 10 lines:"
+ 1668  head -10 hist.txt
+ 1669  # Create hist2.txt with actual terminal history
+ 1670  echo "=== TERMINAL COMMAND HISTORY ===" > hist2.txt
+ 1671  echo "Generated on: $(date)" >> hist2.txt
+ 1672  echo "=================================" >> hist2.txt
+ 1673  echo "" >> hist2.txt
+ 1674  # Get bash history related to this practical
+ 1675  echo "# Commands from current session related to Prac02:" >> hist2.txt
+ 1676  history | grep -E "Prac02|create_tables|\.sql|git" | tail -100 >> hist2.txt
+ 1677  # Also get any commands from the current directory
+ 1678  echo "" >> hist2.txt
+ 1679  echo "# Recent commands in Prac02 directory:" >> hist2.txt
+ 1680  echo "pwd: $(pwd)" >> hist2.txt
+ 1681  echo "" >> hist2.txt
+ 1682  # If you want all recent bash history (last 200 commands)
+ 1683  echo "# Last 200 bash commands:" >> hist2.txt
+ 1684  history | tail -200 >> hist2.txt

@@ -1,0 +1,5 @@
+=== MYSQL COMMAND HISTORY (CLEAN) ===
+Generated on: ze 31 zil 13:26:41 +04 2025
+=====================================
+
+USE dswork;;
